@@ -3,13 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+Want to know more about me?
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Wait until I start my PhD.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[By Email](mingchen8090@dingtalk.com)
